@@ -1,0 +1,7 @@
+"Comment","Designator","Footprint","LCSC Part #"
+"Battery_Cell","BT1","BatteryHolder_Keystone_1060_1x2032","C70377"
+"100n","C3,C1,C2","C_0603_1608Metric","C14663"
+"100","R1","R_0603_1608Metric","C22775"
+"4.7K","R3,R2","R_0603_1608Metric","C23162"
+"DS3231M","U1","SOIC-16W_7.5x10.3mm_P1.27mm","C37663"
+"74AHCT1G125","U2","SOT-353_SC-70-5","C12495"
