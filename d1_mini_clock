@@ -1,0 +1,37 @@
+"Source:","C:\Projects\d1_mini_clock\d1_mini_clock.sch"
+"Date:","2021-01-11 00:14:39"
+"Tool:","Eeschema (5.1.7)-1"
+"Generator:","C:\Program Files\KiCad\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","13"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","LCSC"
+"","","BT1","Battery_Cell","Device:Battery_Cell","Battery:BatteryHolder_Keystone_1060_1x2032","~","C70377"
+"","","C1","100n","Device:C","Capacitor_SMD:C_0603_1608Metric","~","C14663"
+"","","C2","100n","Device:C","Capacitor_SMD:C_0603_1608Metric","~","C14663"
+"","","C3","100n","Device:C","Capacitor_SMD:C_0603_1608Metric","~","C14663"
+"","","J1","Conn_01x04","conn:Conn_01x04","Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal","~",""
+"","","J2","Conn_01x03","conn:Conn_01x03","Connector_JST:JST_PH_S3B-PH-SM4-TB_1x03-1MP_P2.00mm_Horizontal","~",""
+"","","P1","CONN_01X08","d1_mini_clock-rescue:CONN_01X08","D1_mini:D1_mini_Pin_Header","",""
+"","","P2","CONN_01X08","d1_mini_clock-rescue:CONN_01X08","D1_mini:D1_mini_Pin_Header","",""
+"","","R1","100","Device:R","Resistor_SMD:R_0603_1608Metric","~","C22775"
+"","","R2","4.7K","Device:R","Resistor_SMD:R_0603_1608Metric","~","C23162"
+"","","R3","4.7K","Device:R","Resistor_SMD:R_0603_1608Metric","~","C23162"
+"","","U1","DS3231M","Timer_RTC:DS3231M","Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm","http://datasheets.maximintegrated.com/en/ds/DS3231.pdf"," C37663"
+"","","U2","74AHCT1G125","74xGxx:74AHCT1G125","Package_TO_SOT_SMD:SOT-353_SC-70-5","http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf","C12495"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","LCSC"
+"1","1","BT1","Battery_Cell","Device:Battery_Cell","Battery:BatteryHolder_Keystone_1060_1x2032","~","C70377"
+"2","3","C1, C2, C3","100n","Device:C","Capacitor_SMD:C_0603_1608Metric","~","C14663"
+"3","1","J1","Conn_01x04","conn:Conn_01x04","Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal","~",""
+"4","1","J2","Conn_01x03","conn:Conn_01x03","Connector_JST:JST_PH_S3B-PH-SM4-TB_1x03-1MP_P2.00mm_Horizontal","~",""
+"5","2","P1, P2","CONN_01X08","d1_mini_clock-rescue:CONN_01X08","D1_mini:D1_mini_Pin_Header","",""
+"6","1","R1","100","Device:R","Resistor_SMD:R_0603_1608Metric","~","C22775"
+"7","2","R2, R3","4.7K","Device:R","Resistor_SMD:R_0603_1608Metric","~","C23162"
+"8","1","U1","DS3231M","Timer_RTC:DS3231M","Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm","http://datasheets.maximintegrated.com/en/ds/DS3231.pdf"," C37663"
+"9","1","U2","74AHCT1G125","74xGxx:74AHCT1G125","Package_TO_SOT_SMD:SOT-353_SC-70-5","http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf","C12495"
