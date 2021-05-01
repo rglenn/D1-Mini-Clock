@@ -104,7 +104,7 @@ F 4 " C37663" H 4300 3350 50  0001 C CNN "LCSC"
 	1    0    0    -1  
 $EndComp
 $Comp
-L conn:Conn_01x04 J1
+L d1_mini_clock-rescue:Conn_01x04-conn J1
 U 1 1 5FFB79C6
 P 7000 4000
 F 0 "J1" H 7080 3992 50  0000 L CNN
@@ -115,7 +115,7 @@ F 3 "~" H 7000 4000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L conn:Conn_01x03 J2
+L d1_mini_clock-rescue:Conn_01x03-conn J2
 U 1 1 5FFB808A
 P 7000 4800
 F 0 "J2" H 7080 4842 50  0000 L CNN
